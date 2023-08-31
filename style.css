@@ -318,6 +318,10 @@ h2 {
   flex-wrap: wrap; /* Allow wrapping to new line */
 }
 
+.recommendations-title {
+  margin-bottom: 20px; /* Adjust this value as needed */
+}
+
 .recommendation {
   font-style: italic;
   text-align: center;
