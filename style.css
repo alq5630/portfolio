@@ -311,13 +311,11 @@ h2 {
 
 /* Recommendations */
 
-.all_recommendations {
+#all_recommendations {
   display: flex;
   justify-content: center; /* Center horizontally */
   align-items: center;
-  flex-direction: row;
-  flex-flow: wrap;
-  padding: 2.5px;
+  flex-wrap: wrap; /* Allow wrapping to new line */
 }
 
 .recommendation {
@@ -333,6 +331,10 @@ h2 {
   border: 1px solid gray;
   font-size: 15px;
   height: 100px;
+  flex: 0 0 100%; /* Set box width to 100% on smaller screens */
+  @media (min-width: 768px) {
+    flex: 0 0 calc(33.33% - 20px); /* Adjust for 3 columns with margins */
+  }
 }
 
 .recommendation span {
