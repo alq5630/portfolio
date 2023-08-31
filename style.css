@@ -333,7 +333,7 @@ h2 {
   padding: 5px;
   margin: 5px;
   border: 1px solid gray;
-  font-size: 15px;
+  font-size: 25px;
   height: 100px;
   flex: 0 0 100%; /* Set box width to 100% on smaller screens */
   @media (min-width: 768px) {
