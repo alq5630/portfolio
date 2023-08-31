@@ -311,20 +311,14 @@ h2 {
 
 /* Recommendations */
 
-
-
-
 .all_recommendations {
   display: flex;
+  justify-content: center; /* Center horizontally */
   align-items: center;
-  margin-left: .25in;
   flex-direction: row;
   flex-flow: wrap;
   padding: 2.5px;
 }
-
-
-
 
 .recommendation {
   font-style: italic;
@@ -338,17 +332,15 @@ h2 {
   margin: 5px;
   border: 1px solid gray;
   font-size: 15px;
-  height: 100px
+  height: 100px;
 }
-
-
-
 
 .recommendation span {
   color: #bc55002a;
   font-size: 20px;
   font-family: Garamond, serif;
 }
+
 
 
 
