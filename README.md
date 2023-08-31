@@ -39,7 +39,7 @@ This section features recommendations and testimonials from colleagues and mento
 
 ## Contact
 
-Feel free to reach out to me if you have any questions, opportunities for collaboration, or just want to connect. You can contact me via email at [your@email.com](mailto:your@email.com).
+Feel free to reach out to me if you have any questions, opportunities for collaboration, or just want to connect. You can contact me via email at [ayeshaqahash@gmail.com](mailto:ayeshaqahash@gmail.com).
 
 Thank you for visiting my portfolio, and I look forward to the opportunity to work together!
 
